@@ -5,3 +5,9 @@ pypdf
 bs4
 arxiv
 pymupdf
+python-dotenv
+langchain-openai
+langchain-ollama
+langchain-community
+streamlit
+
